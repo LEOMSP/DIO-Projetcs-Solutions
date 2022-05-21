@@ -1,0 +1,16 @@
+Git Bash: terminal extendido para otimizar o uso do GIT.
+
+Clonar repositório:
+git clone (+link)
+
+Verificar status da pasta selecionada:
+git status
+
+Preparar arquivo para subir pro GitHub (add version local):
+git add .
+
+Adicionar commit:
+git commit -m "Inclusão das anotações"
+
+Enviando todos os commits local para nuvem:
+git push origin main
